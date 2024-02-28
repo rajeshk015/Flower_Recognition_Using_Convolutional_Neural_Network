@@ -18,9 +18,6 @@ This project employs Convolutional Neural Networks in Python for Flower Recognit
 |-----------------------|----------------|
 | Rajesh Kumar          | [@rajeshk015](https://github.com/rajeshk015) |
 | Md Adnan       | [@adnansayeed0852](https://github.com/adnansayeed0852) |
-| Najmul Haque      | [@Stevenhaque](https://github.com/Stevenhaque) |
-| Hangsa Raj Barman          | [@hangsarajbarman](https://github.com/hangsarajbarman) |
-| Shrestha Dutta          | [Shrestha16Dutta](https://github.com/Shrestha16Dutta) |
 
 ## Tech Stack
 
